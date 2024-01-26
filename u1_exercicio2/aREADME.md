@@ -1,5 +1,5 @@
 # Programação WEB - 2022.2 - UFERSA Angicos
-## Exercício 3 - 2,0 pontos se entregar até 05/03/2023
+## Exercício 2 - 3,0 pontos se entregar até 18/02/2024
 
 ### [Vídeo - Parte 1 de 5 - Projeto Spring CadPessoas](https://drive.google.com/open?id=1GlAtyVXCuSgecBHpqQ3AHgXAFJgkMuUh)
 
