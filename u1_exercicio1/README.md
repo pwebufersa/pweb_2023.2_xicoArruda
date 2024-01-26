@@ -21,7 +21,7 @@
 11. Faça _push_ do repositório local para o GitHub.
 12. Adicione a conta **pwebufersa** como colaborador do repositório.
 13. Crie uma pasta e arquivo de nome "u1_exercicio1\primeiraPagina.html" na raiz do repositório local.
-14. Imite esse [site](u1_exercicio1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
+14. Imite esse [site](u1_exercicio1_pt1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 15. Após concluir, faça _commit_ do projeto localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub.
 
 #### Parte 2 - HTML e CSS do CRUD do CadPessoas
