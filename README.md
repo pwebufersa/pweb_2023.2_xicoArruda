@@ -14,7 +14,7 @@ Veja [aqui](u1_exercicio1/).
 
 ## Exercício 2 - 3,0 pontos
 
-Veja [aqui](u1_exercicio2/).
+Veja [aqui](#).
 
 ---
 
