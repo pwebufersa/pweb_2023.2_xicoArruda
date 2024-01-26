@@ -24,6 +24,6 @@
 14. Imite esse [site](u1_exercicio1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 15. Após concluir, faça _commit_ do projeto localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub.
 
-s#### Parte 2 - HTML e CSS do CRUD do CadPessoas
+#### Parte 2 - HTML e CSS do CRUD do CadPessoas
 
 1. Crie sua conta no GitHub.com (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
