@@ -1,6 +1,6 @@
 # Programação WEB - Unidade 1 - Exercício 1
 
-## Exercício 1 - 2,0 pontos se o commit no github for até 23:59h do dia ??/??/2024
+## Exercício 1 - 2,0 pontos se o commit no github for até 23:59h do dia 04/02/2024
 
 ### Parte 1 - Configurando e Testando o Ambiente de Desenvolvimento
 
