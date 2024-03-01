@@ -26,7 +26,8 @@ Explicação do projeto [aqui](#).
 
 Unidade 2 - Faça as UserStories 1, 2, 3 e 4 [desse projeto](https://drive.google.com/open?id=1dYGD7ULD3843EXbuLcf9U2DaAqeZyrVH).
 
-Sugestões de interface e Diagramas [aqui](https://drive.google.com/open?id=1dXUuf0Yk--28OF9fXpEXMhJfkx6tJe3n).
+Sugestões de Interface + Diagramas [aqui](https://drive.google.com/open?id=1dXUuf0Yk--28OF9fXpEXMhJfkx6tJe3n).
+
 ---
 
 # Unidade 3
