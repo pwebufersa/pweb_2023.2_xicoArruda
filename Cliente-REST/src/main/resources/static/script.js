@@ -21,6 +21,12 @@ function carregarClientes() {
           "<span><strong>Nome:</strong> " +
           cliente.nomeCompleto +
           "</span>" +
+          "<span><strong>Rua:</strong> " +
+          cliente.rua +
+          "</span>" +
+          "<span><strong>Bairro:</strong> " +
+          cliente.bairro +
+          "</span>" +
           "<span><strong>Gênero:</strong> " +
           cliente.genero +
           "</span>" +

@@ -4,9 +4,9 @@ import java.util.List;
 public class ExemploLambda {
 
     public static void main(String[] args) {
-        // List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
         // List<Integer> numeros = criarListaDeNumeros(8591651);
-        List<Integer> numeros = criarListaDeNumeros(99999999);
+        // List<Integer> numeros = criarListaDeNumeros(99999999);
 
         long startTimeIterativo = System.nanoTime();
         int somaIterativa = somarNumerosIterativo(numeros);
