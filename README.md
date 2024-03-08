@@ -22,8 +22,6 @@ Veja [aqui](u1_exercicio2/).
 
 ## Projeto - Parte 1 - 5,0 pontos
 
-Explicação do projeto [aqui](#).
-
 Unidade 2 - Faça as UserStories 1, 2, 3 e 4 [desse projeto](https://drive.google.com/open?id=1dYGD7ULD3843EXbuLcf9U2DaAqeZyrVH).
 
 Sugestões de Interface + Diagramas [aqui](https://drive.google.com/open?id=1dXUuf0Yk--28OF9fXpEXMhJfkx6tJe3n).
